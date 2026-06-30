@@ -1,0 +1,67 @@
+{
+  "group": {
+    "group":"Playstation Adblock List",
+    "action": {
+      "do": 0,
+      "status": 1
+    }
+  },
+  "rules": [ 
+    {
+      "PK": "telemetry-console.api.playstation.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "telemetry-web.api.playstation.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "telemetry-mobile.api.playstation.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    }, 
+    {
+      "PK": "smetrics.aem.playstation.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "telemetry-schema-app.rnps.dl.playstation.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      } 
+    },
+    {
+      "PK": "nsx-e.np.dl.playstation.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      } 
+    },
+    {
+      "PK": "mercury.dl.playstation.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      } 
+    },
+    {
+      "PK": "nsx.np.dl.playstation.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      } 
+    }
+  ]
+}
